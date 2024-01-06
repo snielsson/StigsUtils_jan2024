@@ -1,0 +1,6 @@
+@StigsUtils.TestApi_HostAddress = http://localhost:5267
+
+GET {{StigsUtils.TestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
